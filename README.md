@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Somos a Desbrava Cloud</h1>
-<h3 align="center">Uma Consultoria High Tech</h3>
+<h3 align="center">Uma consultoria High Tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desbravacloud&label=Profile%20views&color=0e75b6&style=flat" alt="desbravacloud" /> </p>
 

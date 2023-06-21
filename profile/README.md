@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, Somos a Desbrava Cloud</h1>
 <h3 align="center">Uma consultoria High Tech</h3>
-
+<p>Somos uma empresa de serviços de tecnologia, estratégia e consultoria. Combinando experiência no setor e habilidades especializadas, entregamos diariamente a promessa de empoderar organizações e aumentar seus potenciais. <br><br>
+Acreditamos que a inovação é uma fonte de diferenciação capaz de trazer grandes resultados no dia a dia das empresas e pessoas.
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desbravacloud&label=Profile%20views&color=0e75b6&style=flat" alt="desbravacloud" /> </p>
 
 <h3 align="left">Faça parte da nossa rede:</h3>
